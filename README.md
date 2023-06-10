@@ -12,6 +12,8 @@ Email: akashsanthosh611@gmail.com
 LinkedIn: https://www.linkedin.com/in/akash-santhoshkumar-2630ab222
 GitHub: https://github.com/Akash-san
 I'm excited about the opportunity to work as a software developer and contribute to building amazing front-end solutions. Let's connect and discuss how we can create impactful projects together!
+- <h3 align="left">Languages and Tools:</h3>
+<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-san&show_icons=true&locale=en" alt="Akash-san" /></p>
 
