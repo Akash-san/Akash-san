@@ -10,5 +10,8 @@
 
 Email: akashsanthosh611@gmail.com
 LinkedIn: https://www.linkedin.com/in/akash-santhoshkumar-2630ab222
-GitHub: https://github.com/Akash-san I'm excited about the opportunity to work as a software developer and contribute to building amazing front-end solutions. Let's connect and discuss how we can create impactful projects together!
+GitHub: https://github.com/Akash-san
+I'm excited about the opportunity to work as a software developer and contribute to building amazing front-end solutions. Let's connect and discuss how we can create impactful projects together!
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akash-san&show_icons=true&locale=en" alt="Akash-san" /></p>
 
