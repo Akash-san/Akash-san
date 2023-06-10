@@ -1,16 +1,14 @@
-### Hi there 👋
+## 👋 Hi, I'm Akash S.
 
-<!--
-**Akash-san/Akash-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I'm a fresher who is passionate about software development, particularly in the field of front-end development. I enjoy creating visually appealing and user-friendly interfaces that enhance the overall user experience.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning and expanding my knowledge in front-end technologies such as HTML, CSS,Bootstrap, JavaScript, and frameworks like React.js,Angular.js and also knowledge in pyrhon,Django,MySql,Git,Firebase. I'm also exploring different design principles and tools to improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💞️ I'm looking to collaborate on exciting front-end projects where I can contribute my skills and learn from experienced developers. I'm eager to work in a team-oriented environment that fosters creativity and encourages professional growth.
+
+📫 You can reach me through the following channels:
+
+Email: akashsanthosh611@gmail.com
+LinkedIn: https://www.linkedin.com/in/akash-santhoshkumar-2630ab222
+GitHub: https://github.com/Akash-san I'm excited about the opportunity to work as a software developer and contribute to building amazing front-end solutions. Let's connect and discuss how we can create impactful projects together!
+
